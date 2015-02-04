@@ -81,7 +81,7 @@ var arrayMinimum = function(array) {
   Otherwise, it should return false.
 */
 var endsInPeriod = function(string) {
-
+  
 }
 
 /*
@@ -99,7 +99,7 @@ var arrayEndsInPeriod = function(array) {
   Otherwise, it should return false.
 */
 var multiple3 = function(number) {
-
+  
 }
 
 /*
@@ -107,7 +107,7 @@ var multiple3 = function(number) {
   It should return an array, consisting of only the numbers
     from the original array which are multiples of 3.
 */
-var arrayMultiple3 = function(number) {
+var arrayMultiple3 = function(array) {
 
 }
 
