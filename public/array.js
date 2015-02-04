@@ -4,6 +4,8 @@
 */
 var doubler = function(number) {
 
+  return number * 2
+
 }
 
 /*
@@ -11,6 +13,16 @@ var doubler = function(number) {
   It should return an array, with each number in the array being doubled.
 */
 var arrayDoubler = function(array) {
+
+  var doubler = 0
+
+  var 
+
+
+
+
+
+
 
 }
 
